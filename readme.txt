@@ -1,1 +1,1 @@
-Ceci est la première version deb readme créée en local.
+Ceci est la première version de "readme" créée en local.
